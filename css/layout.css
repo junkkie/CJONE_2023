@@ -24,7 +24,7 @@
     .header_wrap{position:absolute;left: 0;width: 100%;height: 120px; background: url(../images/bg_header.png) repeat-x 0 0;}
       .header_inner{position:relative; width: 96%; min-width: 986px; margin: 0 auto;}
     .srch{position:absolute; left: 0;top: 120px;width: 100%;}
-  .banner{z-index: 30;position: relative;width: 96%;min-width: 986px;height: 550px;overflow: hidden;}
+  .banner{z-index: 30;position: relative;width: 100%;height: 550px;overflow: hidden;}
   #container{width: 100%;}
     .content1{width: 100%;background: #fff;}
     .content2{position: relative;width: 100%;height: 2200px; background: url(../images/bg_hotcontent.png) no-repeat 50% 100%; background-size: cover;}

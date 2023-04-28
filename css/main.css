@@ -295,7 +295,7 @@ padding: 0 14px;background: url(../images/ico_family_arrow.png) no-repeat 162px 
   .banner_frame>section:nth-of-type(4){background: url(../images/banner_bg_4.jpg) no-repeat 50% 0;}
 
 
-  .banner_frame>section>div{width: 96%;min-width: 986px; margin: 0 auto;padding-left: 22px;padding-top: 100px;box-sizing: border-box;}
+  .banner_frame>section>div{width: 100%; margin: 0 auto;padding-left: 22px;padding-top: 100px;box-sizing: border-box;}
   .banner_frame>section>div>ul>li:first-child{width: 550px;padding: 15px 0 20px;font-size: 40px;letter-spacing: 0;font-family: cj_onlyone_medium; line-height: 1.2;}
   .banner_frame>section>div>ul>li:nth-child(2){font-size: 16px;line-height: 26px;margin-bottom: 40px;}
   .banner_frame>section>div>ul>li:last-child>a{display:block;width: 160px;height: 40px;border:1px solid #000; border-radius: 3px; box-sizing: border-box; font-size: 14px;color: #000;text-align: center;line-height: 40px;}
