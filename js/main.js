@@ -412,6 +412,7 @@ mobBtn.addEventListener("click", e => {
   bg.classList.add("on");
   mob.classList.add("on");
   mob_close.classList.add("on");
+  mobBtn.style.opacity = '0';
 })
 
 // 전체메뉴 닫기 클릭
@@ -421,6 +422,7 @@ mob_close.addEventListener("click", e => {
   bg.classList.remove("on");
   mob.classList.remove("on");
   mob_close.classList.remove("on");
+  mobBtn.style.opacity = '1';
 })
 
 // 탑메뉴 고객센터 클릭
